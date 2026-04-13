@@ -1,0 +1,13 @@
+name = "Reshaped MINIMAL"
+author = "Psystock"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "76ed1ccf7ee3efd863eb9fdbeb2dada6c07e06225c060cb9437981c4cc093565"
+
+[versions]
+fabric = "0.18.6"
+minecraft = "1.21.11"
