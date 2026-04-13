@@ -1,0 +1,13 @@
+name = "Reshaped LITE"
+author = "Psystock"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "663f00c2a0e4b4d71cb35c366feebf09a6ff2b1c4ef7fd6a60dc44b3d2fa31f1"
+
+[versions]
+fabric = "0.18.6"
+minecraft = "1.21.11"

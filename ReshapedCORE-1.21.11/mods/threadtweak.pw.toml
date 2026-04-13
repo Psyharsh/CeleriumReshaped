@@ -1,0 +1,21 @@
+filename = 'threadtweak-fabric-0.1.8+mc1.21.11.jar'
+name = 'ThreadTweak'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.9', '1.21.10', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.1.8'
+
+[download]
+hash = 'cab444eaecaa108b0d00eea9aa29415c4e2664ba64de3eedba3f63228686bc2d334f7de06bda22367244cfa0a4b21b7788e924108eef04bfe077bceff1c4b34e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vSEH1ERy/versions/9t60vZ1h/threadtweak-fabric-0.1.8%2Bmc1.21.11.jar'
+
+[update.modrinth]
+mod-id = 'vSEH1ERy'
+version = '9t60vZ1h'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

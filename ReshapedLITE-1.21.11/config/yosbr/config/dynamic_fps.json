@@ -1,0 +1,12 @@
+{
+  "states": {
+    "unfocused": {
+      "graphics_state": "reduced",
+      "run_garbage_collector": true
+    },
+    "abandoned": {
+      "graphics_state": "reduced",
+      "run_garbage_collector": true
+    }
+  }
+}

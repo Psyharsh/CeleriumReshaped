@@ -1,0 +1,13 @@
+name = "Reshaped CORE"
+author = "Psystock"
+version = "1.21.11"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9b9f4b62c4eae097bb25550e2b6f85172112fbcb22565839fcd3aff6b54187b5"
+
+[versions]
+fabric = "0.18.6"
+minecraft = "1.21.11"

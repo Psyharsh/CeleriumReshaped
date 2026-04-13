@@ -1,0 +1,13 @@
+name = "Block Entity Render Distance"
+filename = "BlockEntityRenderDistance-1.0.0+mc1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XFFWVlUE/versions/AH8LmCwu/BlockEntityRenderDistance-1.0.0%2Bmc1.21.11.jar"
+hash-format = "sha512"
+hash = "775d71cb726d103a92135f0e41492a3993397326cf6ec15efabc2e5c9187fd1b18c3850b07f31ecf46c248363283c2b0298af0050bcebe5d59fd467f71184b63"
+
+[update]
+[update.modrinth]
+mod-id = "XFFWVlUE"
+version = "AH8LmCwu"

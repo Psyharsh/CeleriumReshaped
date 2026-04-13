@@ -1,0 +1,18 @@
+filename = 'LazyDFU-[UNOFFICIAL]-1.21.11.jar'
+name = 'LazyDFU Reloaded'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1'
+
+[download]
+hash = 'e4a40286ece7a8ede41d9754b56b905653f5e8676ad80f03dc444f8c0b083abf325e90c18fe3b332cd9be2e8968407b3e320572e5138e3c3763bd4d81dadefee'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OmQzuQFa/versions/sZzDWvYD/LazyDFU-%5BUNOFFICIAL%5D-1.21.11.jar'
+
+[update.modrinth]
+mod-id = 'OmQzuQFa'
+version = 'sZzDWvYD'
