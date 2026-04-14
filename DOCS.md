@@ -96,6 +96,18 @@ To add your own files is simple, actually.
 
 If you experience issues while using Reshaped, follow the steps below. Most problems can be resolved with simple adjustments.
 
+### GPU Crashes on Older Intel Integrated Graphics
+
+Some older Intel iGPUs (e.g. Bay Trail, HD 3000/4000) may experience crashes or driver resets when using advanced rendering features.
+
+**Solutions**
+- In Sodium:
+  - Set **Chunk Updates** to **Deferred**
+  - Disable **Persistent Mapping**
+- Use **Fast** graphics settings
+- Consider switching to Linux (Mesa drivers tend to be more stable for older Intel GPUs
+but do **NOT** if you don't understand how to change Operating Systems, research first.)
+
 ### High ms/t or Delayed Actions
 
 **Symptoms**:
@@ -175,6 +187,7 @@ Every mod contributes to performance, stability, or usability—nothing is inclu
 These mods form the core of Reshaped’s optimization system:
 
 - **Sodium** – Replaces the rendering engine for massive performance improvements
+- **Sodium Extra** – Adds additional settings and fine-tuning options for Sodium.
 - **Lithium** – Optimizes game logic and server-side performance
 - **FerriteCore** – Reduces memory usage
 - **ModernFix (mVUS)** – Applies a wide range of performance and bug fixes
@@ -187,6 +200,8 @@ These mods form the core of Reshaped’s optimization system:
 - **Let Me Despawn** – Improves entity despawn behavior
 - **Clumps** – Groups XP orbs to reduce lag
 - **Alternate Current** – Optimizes redstone updates
+- **LazyDFU Reloaded** – Speeds up game startup by deferring DataFixerUpper initialization.
+- **ThreadTweak** – Adjusts thread priorities to improve performance and responsiveness on some systems.
 
 ### Stability & Fixes
 
@@ -195,6 +210,7 @@ These mods improve reliability and correct vanilla issues:
 - **Debugify** – Fixes vanilla bugs
 - **FastQuit** – Speeds up world exit and reduces hang time
 - **YOSBR** – Ensures consistent configuration behavior
+- **No Telemetry** – Disables Microsoft telemetry and data collection.
 
 ### Essential Quality of Life
 
@@ -203,6 +219,8 @@ Lightweight improvements that do not impact performance:
 - **Shulker Box Tooltip** – View contents without opening
 - **Better F3** – Enhanced debug screen
 - **Block Entity Render Distance** – Controls rendering range for block entities
+- **AppleSkin** – Displays hunger and saturation information directly in the HUD.
+- **Longer Chat History** – Increases the amount of messages stored in chat history.
 
 ### Core Libraries
 
@@ -213,6 +231,8 @@ Required dependencies for the mod ecosystem:
 - **Cloth Config**
 - **YACL (Yet Another Config Lib)**
 - **Mod Menu**
+- **LibIPN**
+- **Almanac**
 
 Optional Mods
 
