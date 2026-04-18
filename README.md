@@ -5,6 +5,8 @@ A performance and stability-focused modpack that is built on the Celerium founda
 
 # Now, Meet Celerium: Reshaped!
 Minecraft, but more refined.
+Designed for Fabric 1.21.11.
+Updates will prioritize stability over speed.
 
 ## Overview
 This modpack revolves around one idea: a pack that focuses on performance, stability, and improvements that feel like they **belong** in the game. The result is a modern Fabric experience that stays true to vanilla, while quietly fixing what vanilla leaves behind.
@@ -182,6 +184,8 @@ Mods that subtly adjust or improve game behavior.
 | YOSBR             |
 | Moonrise          |
 
+> All mods belong to their respective creators. Huge thanks to the Fabric modding community.
+
 ---
 
 ### Version Differences
@@ -196,6 +200,10 @@ Mods that subtly adjust or improve game behavior.
 
 > MINIMAL removes convenience features — not the performance foundation.
 > All versions share the same optimization and stability core.
+
+
+## Important information
+For any troubleshooting, getting more information and support regarding any problems, you can check the [documentation](https://github.com/Psyharsh/CeleriumReshaped/blob/main/DOCS.md), if you troubleshoot but still have some problems you can [open an issue](https://github.com/Psyharsh/CeleriumReshaped/issues) on the github page.
 
 
 ## Important information
